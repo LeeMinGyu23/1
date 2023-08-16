@@ -15,3 +15,5 @@ print()를 안으로 넣으면 1개만 출력되고 한칸띄어쓰면 여러개
 # list comprehension과 안한거에 1 더한 값 출력
 ![image](https://github.com/LeeMinGyu23/1/assets/117800561/76c8a109-0dfa-4ed9-bded-834c6ce37e5d)
 
+# if문도 list comprehension에 넣어서 출력 가능
+![image](https://github.com/LeeMinGyu23/1/assets/117800561/eef97acf-332d-4e41-abaa-dd43ec6db57a)
