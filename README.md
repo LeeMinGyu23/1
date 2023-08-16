@@ -20,3 +20,7 @@ print()를 안으로 넣으면 1개만 출력되고 한칸띄어쓰면 여러개
 
 # []값 더하기 211은 어캐하는지 모르겟음
 ![image](https://github.com/LeeMinGyu23/1/assets/117800561/d3306f53-defd-4945-a7ac-3c3eec2f18fb)
+
+# .음
+![image](https://github.com/LeeMinGyu23/1/assets/117800561/4d474ac9-c646-42b5-9dbe-584dac8db7ca)
+
