@@ -13,4 +13,5 @@ print()를 안으로 넣으면 1개만 출력되고 한칸띄어쓰면 여러개
 ![image](https://github.com/LeeMinGyu23/1/assets/117800561/f60149b2-d287-4d2d-9b74-2bf761faf06c)
 
 # list comprehension과 안한거에 1 더한 값 출력
-![image](https://github.com/LeeMinGyu23/1/assets/117800561/7205caba-527f-459d-af0f-908a009ae6e5)
+![image](https://github.com/LeeMinGyu23/1/assets/117800561/76c8a109-0dfa-4ed9-bded-834c6ce37e5d)
+
